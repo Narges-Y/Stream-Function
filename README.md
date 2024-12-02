@@ -5,4 +5,5 @@ An incompressible ideal fluid flows steadily between the inlet and outlet of a r
 
 The Laplace's equation for the stream function is solved using the finite difference method.
 
+![AeQVVU8rT2SePBWLUKhTLQ2H](https://github.com/user-attachments/assets/ee7dafc4-906e-4013-bd58-2a1be92fe01e)
 
