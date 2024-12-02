@@ -18,3 +18,6 @@ $$ u = \frac{\partial \psi}{\partial y} $$
 $$ v = -\frac{\partial \psi}{\partial x} $$
 
 The velocity profile at the inlet and outlet is parabolic.
+
+## Discretization of the Equation
+
