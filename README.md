@@ -1,5 +1,5 @@
 # Stream-Function
-Determining Streamlines and Velocity Vectors by Solving the Laplace's Equation for the Stream Function Using Fortran
+### Determining Streamlines and Velocity Vectors by Solving the Laplace's Equation for the Stream Function Using Fortran
 
 An incompressible ideal fluid flows steadily between the inlet and outlet of a reservoir.
 
