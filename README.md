@@ -27,3 +27,10 @@ The velocity profile at the inlet and outlet is parabolic.
 
 ![8PHbaeCfTQKS8NJMTHetK06A](https://github.com/user-attachments/assets/aaaf3a49-84f2-41c5-b3a4-dd8eaf7369d2)
 
+$$
+u(i,j) = \frac{\psi_{i,j+1} - \psi_{i,j-1}}{2 \Delta y}
+$$
+
+$$
+v(i,j) = -\frac{\psi_{i+1,j} - \psi_{i-1,j}}{2 \Delta x}
+$$
