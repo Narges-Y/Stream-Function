@@ -23,3 +23,7 @@ The velocity profile at the inlet and outlet is parabolic.
 
 ![grRt2JY2ReN3Wf49Qf0T6Wa2](https://github.com/user-attachments/assets/328e6ab2-a4de-4aac-a238-96aa134d705e)
 
+## Velocity Discretization
+
+![8PHbaeCfTQKS8NJMTHetK06A](https://github.com/user-attachments/assets/aaaf3a49-84f2-41c5-b3a4-dd8eaf7369d2)
+
