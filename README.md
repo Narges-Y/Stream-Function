@@ -38,3 +38,9 @@ $$
 $$
 v(i,j) = -\frac{\psi_{i+1,j} - \psi_{i-1,j}}{2 \Delta x}
 $$
+
+## Result
+
+### Streamlines
+
+![ut_20241202_191145_1](https://github.com/user-attachments/assets/a4e6a8f0-646e-4bc0-b276-de0ecf52dded)
