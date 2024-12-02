@@ -10,3 +10,9 @@ The Laplace's equation for the stream function is solved using the finite differ
 ## Equation
 
 $$ \frac{\partial^2 \psi}{\partial x^2} + \frac{\partial^2 \psi}{\partial y^2} = 0 $$
+
+## Velocity
+
+$$ u = \frac{\partial \psi}{\partial y} $$
+
+$$ v = -\frac{\partial \psi}{\partial x} $$
