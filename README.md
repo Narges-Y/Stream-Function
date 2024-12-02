@@ -16,3 +16,5 @@ $$ \frac{\partial^2 \psi}{\partial x^2} + \frac{\partial^2 \psi}{\partial y^2} =
 $$ u = \frac{\partial \psi}{\partial y} $$
 
 $$ v = -\frac{\partial \psi}{\partial x} $$
+
+The velocity profile at the inlet and outlet is parabolic.
