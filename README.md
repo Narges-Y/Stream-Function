@@ -21,7 +21,13 @@ The velocity profile at the inlet and outlet is parabolic.
 
 ## Discretization of the Equation
 
-![grRt2JY2ReN3Wf49Qf0T6Wa2](https://github.com/user-attachments/assets/328e6ab2-a4de-4aac-a238-96aa134d705e)
+$$
+\frac{\partial^2 \psi}{\partial x^2} = \frac{\psi_{i-1,j} - 2\psi_{i,j} + \psi_{i+1,j}}{\Delta x^2}
+$$
+
+$$
+\frac{\partial^2 \psi}{\partial y^2} = \frac{\psi_{i,j-1} - 2\psi_{i,j} + \psi_{i,j+1}}{\Delta y^2}
+$$
 
 ## Velocity Discretization
 
